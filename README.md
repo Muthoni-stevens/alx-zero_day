@@ -1,2 +1,2 @@
 My first readme
-growth mindset to programming
+i need to be more keen
